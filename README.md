@@ -18,7 +18,7 @@ Apply Custom Font From Assets folder
 ```
 
             
-            
+```            
         Set First Character is Capital
         edtxtEmoji.firstCharCapital(true);
 
@@ -32,3 +32,4 @@ Apply Custom Font From Assets folder
         2 - [0-9]
         edtxtEmoji.setAllowChar(0);  
                                   
+```
