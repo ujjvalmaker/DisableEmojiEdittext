@@ -18,7 +18,7 @@ Apply Custom Font From Assets folder
 ```
 
             
-```            
+```java            
         Set First Character is Capital
         edtxtEmoji.firstCharCapital(true);
 
