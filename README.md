@@ -5,16 +5,16 @@ Set Charset , Disable Emoji and Android system other character. Set First Charac
 
 Add it in your root build.gradle at the end of repositories:
 ```
-	allprojects {
-		repositories {
-			...
-			maven { url 'https://jitpack.io' }
+allprojects {
+   repositories {
+		    ...
+		    maven { url 'https://jitpack.io' }
 		}
 	}
     
-     Add the dependency
+ Add the dependency
      
-     dependencies {
+dependencies {
 	        implementation 'com.github.ujjvalmaker:DisableEmojiEdittext:0.1.0'
 	}
  ```   
