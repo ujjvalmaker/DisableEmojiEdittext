@@ -5,7 +5,7 @@ Set Charset , Disable Emoji and Android system other character. Set First Charac
 
 Apply Custom Font From Assets folder
 ```xml
-<myxml>
+
     <com.alastrine.edittextemoji.EdtxtEmoji
             android:layout_marginTop="20dp"
             android:paddingLeft="20dp"
@@ -14,7 +14,7 @@ Apply Custom Font From Assets folder
             android:hint=" Only Digit"
             android:layout_width="match_parent"
             android:layout_height="wrap_content" />
-</myxml>
+
 ```
 
             
