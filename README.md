@@ -4,8 +4,9 @@
 Set Charset , Disable Emoji and Android system other character. Set First Character is Capital or not , Set Drawable shape in edittext.
 
 Apply Custom Font From Assets folder
-
- <com.alastrine.edittextemoji.EdtxtEmoji
+```xml
+<myxml>
+    <com.alastrine.edittextemoji.EdtxtEmoji
             android:layout_marginTop="20dp"
             android:paddingLeft="20dp"
             android:id="@+id/edtxt_custom2"
@@ -13,6 +14,9 @@ Apply Custom Font From Assets folder
             android:hint=" Only Digit"
             android:layout_width="match_parent"
             android:layout_height="wrap_content" />
+</myxml>
+```
+
             
             
         Set First Character is Capital
